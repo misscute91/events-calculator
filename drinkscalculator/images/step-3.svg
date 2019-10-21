@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="159px" height="128px" viewBox="0 0 159 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-2.3%" y="-2.9%" width="107.1%" height="113.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="4" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0796818388 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="57.1631206" height="73.8240741" rx="4.4"></rect>
+        <rect id="path-4" x="97.8368794" y="5.50925926" width="57.1631206" height="73.8240741" rx="4.4"></rect>
+        <rect id="path-5" x="47.2695035" y="0" width="57.1631206" height="81.537037" rx="4.4"></rect>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-779.000000, -892.000000)">
+        <g id="Group-6" filter="url(#filter-1)" transform="translate(779.000000, 892.000000)">
+            <g id="Rectangle-14-Copy-3" transform="translate(0.000000, 4.407407)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#D7592E" stroke-width="3.3" x="1.65" y="1.65" width="53.8631206" height="70.5240741" rx="4.4"></rect>
+                </g>
+                <rect fill="#FFD4C5" mask="url(#mask-3)" x="35.177305" y="3.30555556" width="21.9858156" height="67.212963"></rect>
+            </g>
+            <g id="Rectangle-14-Copy-2">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                <rect stroke="#D7592E" stroke-width="3.3" x="99.4868794" y="7.15925926" width="53.8631206" height="70.5240741" rx="4.4"></rect>
+            </g>
+            <rect id="Rectangle-14-Copy-3" fill="#FFD4C5" x="93.4397163" y="8.81481481" width="21.9858156" height="67.212963"></rect>
+            <g id="Rectangle-14-Copy">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <rect stroke="#D7592E" stroke-width="3.3" x="48.9195035" y="1.65" width="53.8631206" height="78.237037" rx="4.4"></rect>
+            </g>
+            <ellipse id="Oval" fill="#FFD4C5" cx="75.3014184" cy="39.1157407" rx="14.8404255" ry="14.875"></ellipse>
+            <path d="M72.9949137,114.898408 C72.4840711,111.720032 70.9804884,108.927462 68.4841653,106.520698 C63.3487004,101.569474 60.8056495,98.013875 57.821735,90.6723471 C55.8324587,85.7779952 53.7807692,81.6508383 51.6666667,78.2908765 C56.0194853,74.437271 59.6070517,73.8156667 62.4293658,76.4260636 C65.25168,79.0364604 67.2699465,81.9624935 68.4841653,85.2041628 L71.2910535,38.3006202 L71.2910535,38.3006202 C71.8436995,36.1412922 74.0421888,34.8388191 76.2015168,35.3914651 C77.392243,35.6962127 78.3791988,36.5269643 78.8826278,37.64824 L79.1755327,38.3006202 L81.2181438,68.4583817 L82.2692375,64.1589045 L82.2692375,64.1589045 C83.3099748,62.1197426 85.8067264,61.3103595 87.8458882,62.3510968 C88.8034915,62.8398335 89.5337545,63.6814986 89.8825546,64.6984578 L90.2260591,65.699977 L90.7252222,70.0672733 L92.0741967,66.8622861 L92.0741967,66.8622861 C93.0370623,65.1111794 95.2371715,64.4721838 96.9882781,65.4350494 C97.8422915,65.9046383 98.4707613,66.6988823 98.7314169,67.6379837 L99.1097156,69.0009347 L99.1097156,72.2413244 L100.841254,70.0672733 L100.841254,70.0672733 C102.270145,68.9235068 104.355695,69.1546456 105.499462,70.5835363 C105.792868,70.9500841 106.005039,71.3747932 106.121918,71.8295278 L106.631206,73.8109748 L106.631206,86.433438 L106.018422,101.434263 L102.240443,109.193795 L101.399453,114.847553 C101.078706,117.003855 99.2273644,118.600181 97.0473375,118.600181 L77.3391657,118.600187 C75.1786368,118.600187 73.3377632,117.031561 72.9949137,114.898408 Z" id="Path-16" stroke="#D7592E" stroke-width="3.3" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

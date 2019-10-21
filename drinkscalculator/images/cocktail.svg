@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="269px" height="528px" viewBox="0 0 269 528" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>cocktail</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cocktail" transform="translate(-1.000000, 0.000000)" fill="#5F5F5F" fill-rule="nonzero">
+            <rect id="Rectangle-path" x="96" y="0" width="75" height="60.5714286"></rect>
+            <g id="Group" transform="translate(0.000000, 58.571430)">
+                <path d="M265.604096,101.705435 C256.933735,52.8068117 219.80494,13.3614313 171.346988,0.0434862572 L99.1008434,0.0434862572 C50.6428916,13.3614313 13.5140964,52.8068117 4.8426506,101.705435 L265.604096,101.705435 Z" id="Shape"></path>
+                <path d="M0.991084337,124.00608 L46.9290361,461.002273 C47.5687952,465.692098 51.470241,469.182149 56.076506,469.182149 L222.115663,469.182149 C226.798916,469.182149 230.741566,465.57725 231.289157,460.794877 L269.853614,124.00608 L0.991084337,124.00608 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

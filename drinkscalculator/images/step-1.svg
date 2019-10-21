@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="111px" viewBox="0 0 90 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-6.1%" y="-5.0%" width="117.1%" height="115.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="4" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0796818388 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-244.000000, -881.000000)">
+        <g id="Group" filter="url(#filter-1)" transform="translate(246.000000, 883.000000)">
+            <path d="M4,0 L78,0 C80.209139,-4.05812251e-16 82,1.790861 82,4 L82,97 C82,99.209139 80.209139,101 78,101 L51.4419059,101 L0,79.5191147 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Path-2" stroke="#D14111" stroke-width="2.4" fill="#FFFFFF"></path>
+            <rect id="Rectangle-6" fill="#FFD4C5" x="11.1456311" y="20.0396825" width="58.1165049" height="5.61111111" rx="2.80555556"></rect>
+            <rect id="Rectangle-6-Copy" fill="#FFD4C5" x="11.1456311" y="33.6666667" width="58.1165049" height="5.61111111" rx="2.80555556"></rect>
+            <rect id="Rectangle-6-Copy-2" fill="#FFD4C5" x="11.1456311" y="50.5" width="58.1165049" height="5.61111111" rx="2.80555556"></rect>
+            <rect id="Rectangle-6-Copy-3" fill="#FFD4C5" x="11.1456311" y="67.3333333" width="58.1165049" height="5.61111111" rx="2.80555556"></rect>
+            <path d="M0,78.3347133 L10.6986978,66.4918916 C13.3643261,63.5411997 17.917253,63.31011 20.8679449,65.9757383 C21.0058306,66.100303 21.1388425,66.2301589 21.2666816,66.3650143 L53.3398058,100.198413" id="Path-3" stroke="#D14111" stroke-width="2.4" fill="#FFD4C5"></path>
+        </g>
+    </g>
+</svg>

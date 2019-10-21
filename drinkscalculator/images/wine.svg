@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="790px" viewBox="0 0 240 790" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>wine</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.600000024">
+        <g id="wine" fill="#010002" fill-rule="nonzero">
+            <g id="Step-2">
+                <g id="glass-and-bottle-of-wine">
+                    <path d="M169.312999,98.3027324 L70.7242667,98.3027324 L70.7242667,0 L169.312999,0 L169.312999,98.3027324 Z M169.312999,220.10891 L169.312999,128.539829 L70.7242667,128.539829 L70.7242667,220.1518 C29.0954262,241.725218 0,289.847236 0,345.860922 L0,435.628644 L0,721.830273 L0,790 L240,790 L239.999964,721.830273 L239.999964,435.628644 L239.999964,345.860922 C240.037266,289.847236 211.016443,241.725218 169.312999,220.10891 Z M218.812526,691.25247 L23.3136428,691.25247 L23.3136428,421.563298 L218.812526,421.563298 L218.812526,691.25247 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
